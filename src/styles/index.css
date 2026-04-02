@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+/*
+ * Global custom styles — extend Tailwind with project-level tokens.
+ * Prefer Tailwind utilities over custom CSS wherever possible.
+ */
+
+@theme {
+  --font-sans: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+/* Base resets */
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100vh;
+}

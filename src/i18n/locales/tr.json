@@ -1,0 +1,46 @@
+{
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "create": "Oluştur",
+    "search": "Ara",
+    "noResults": "Sonuç bulunamadı",
+    "confirm": "Onayla",
+    "back": "Geri",
+    "next": "İleri",
+    "submit": "Gönder",
+    "reset": "Sıfırla"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "example": "Örnek",
+    "settings": "Ayarlar"
+  },
+  "home": {
+    "title": "Hoş Geldiniz",
+    "subtitle": "Enterprise seviye mimariye sahip modern React şablonu"
+  },
+  "notFound": {
+    "title": "Sayfa Bulunamadı",
+    "description": "Aradığınız sayfa mevcut değil.",
+    "goHome": "Ana Sayfaya Dön"
+  },
+  "example": {
+    "title": "Örnek Sayfa",
+    "formTitle": "Öğe Oluştur",
+    "titleField": "Başlık",
+    "descriptionField": "Açıklama",
+    "titleRequired": "Başlık gereklidir",
+    "titleMin": "Başlık en az 3 karakter olmalıdır",
+    "descriptionRequired": "Açıklama gereklidir"
+  },
+  "theme": {
+    "light": "Açık",
+    "dark": "Koyu",
+    "system": "Sistem"
+  }
+}

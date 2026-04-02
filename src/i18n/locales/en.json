@@ -1,0 +1,46 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "noResults": "No results found",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "reset": "Reset"
+  },
+  "nav": {
+    "home": "Home",
+    "example": "Example",
+    "settings": "Settings"
+  },
+  "home": {
+    "title": "Welcome",
+    "subtitle": "Modern React Template with enterprise-grade architecture"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you are looking for does not exist.",
+    "goHome": "Go to Home"
+  },
+  "example": {
+    "title": "Example Page",
+    "formTitle": "Create Item",
+    "titleField": "Title",
+    "descriptionField": "Description",
+    "titleRequired": "Title is required",
+    "titleMin": "Title must be at least 3 characters",
+    "descriptionRequired": "Description is required"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  }
+}
